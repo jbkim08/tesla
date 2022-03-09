@@ -17,7 +17,4 @@ menuBtn.addEventListener('click', toggleNavigation);
 navCloseBtn.addEventListener('click', toggleNavigation);
 blurOverlay.addEventListener('click', toggleNavigation);
 
-new fullpage('#fullpage', {
-  autoScrolling: true,
-  scrollBar: true,
-});
+// 여기에서 fullpage를 초기화 설정
