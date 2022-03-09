@@ -13,3 +13,6 @@ https://www.tesla.com/ko_kr
 + 아래쪽 주문하기 자세히 알아보기 위치및 내용
 + 맨 아래 footer 수정
 + 메뉴 클릭시 오른쪽 네비게이션 창  
++ 그 외 추가적인 수정 가능
++ PPT 작성 2~3페이지 (내용) 하여 제출할것
++ https://docs.google.com/presentation/d/1RZ_clB4ZwaQt53KtyxEfjbNVhnv67VdQ/edit?usp=sharing&ouid=110486823165423773981&rtpof=true&sd=true
