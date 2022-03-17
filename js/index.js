@@ -19,7 +19,5 @@ blurOverlay.addEventListener('click', toggleNavigation);
 
 // 여기에서 fullpage를 초기화 설정
 new fullpage('#fullpage', {
-  //options here
   autoScrolling: true,
-  scrollHorizontally: true
 });
