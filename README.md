@@ -6,6 +6,8 @@
 
 🏹 HTML CSS 를 복습겸 PPT를 작성하여 문서작성 능력을 키움 ( 앞으로 계속 )
 
+💢 PPT를 pdf 로 변환해서 본인이름.pdf 로 슬랙에서 제출하기
+
 ## 수정할 내용 (사이트 참고)
 https://www.tesla.com/ko_kr
 
