@@ -1,5 +1,7 @@
 # tesla (6월 30일까지 포트폴리오 슬랙에 제출)
 
+## https://join.slack.com/t/ai-icp8741/shared_invite/zt-1bjb08mmt-Z2qZYICt25lKiRkF2GGkXQ
+
 💨 테슬라 korea 사이트를 클론(보고 그대로 카피)하여 제출하기 
 
 🏹 HTML CSS 를 복습겸 PPT를 작성하여 문서작성 능력을 키움 ( 앞으로 계속 )
