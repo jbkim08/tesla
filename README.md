@@ -24,3 +24,5 @@ https://www.tesla.com/ko_kr
 + https://docs.google.com/presentation/d/1RZ_clB4ZwaQt53KtyxEfjbNVhnv67VdQ/edit?usp=sharing&ouid=110486823165423773981&rtpof=true&sd=true
 
 + (참고) 깃허브 프로파일 꾸미기 https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0 
+
++ 깃 클론으로 수업시간에 추가한 내용 push
