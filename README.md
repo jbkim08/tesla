@@ -1,5 +1,5 @@
 # tesla (9월 14일까지 문제해결시나리오 슬랙에 제출)
-
+https://join.slack.com/t/w1662600805-s3h688327/shared_invite/zt-1fm1xah12-xW~AAbFlZ1iaKmbTBvIczA
 
 
 💨 테슬라 korea 사이트를 클론(보고 그대로 카피)하여 제출하기 
