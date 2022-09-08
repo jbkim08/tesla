@@ -1,6 +1,6 @@
-# tesla (6월 30일까지 포트폴리오 슬랙에 제출)
+# tesla (9월 14일까지 포트폴리오 슬랙에 제출)
 
-## https://join.slack.com/t/ai-icp8741/shared_invite/zt-1bjb08mmt-Z2qZYICt25lKiRkF2GGkXQ
+
 
 💨 테슬라 korea 사이트를 클론(보고 그대로 카피)하여 제출하기 
 
