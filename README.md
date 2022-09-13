@@ -6,7 +6,7 @@ https://join.slack.com/t/w1662600805-s3h688327/shared_invite/zt-1fm1xah12-xW~AAb
 
 🏹 HTML CSS 를 복습겸 PPT를 작성하여 문서작성 능력을 키움 ( 앞으로 계속 )
 
-💢 PPT를 pdf 로 변환해서 본인이름.pdf 로 슬랙에서 제출하기
+💢 PPT를 pdf 로 변환해서 본인이름.pdf + 본인이름.zip(소스코드) 로 슬랙에서 제출하기
 
 ## 수정할 내용 (사이트 참고)
 https://www.tesla.com/ko_kr
